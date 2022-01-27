@@ -28,4 +28,4 @@ Alfonso Ortiz Palma Junco
 - GitHub @aortizpalma
 - [LinkedIn](https://www.linkedin.com/in/ortizpalma/)
 
-- Header image square credits: @TraversyMedia
+- Header square image and site concept: [@TraversyMedia's Flexbox Crash Course](https://www.youtube.com/watch?v=3YW65K6LcIA)
